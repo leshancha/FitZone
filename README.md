@@ -1,0 +1,32 @@
+First extract this zip file in your XAMPP/htdocs or wamp64/www folder
+
+Sometimes when you extract this file they ask to replace files, then click ok. Don't worry. It will ask to extract the logo in the assets folder.
+
+You can change the logo at any time using the admin login,
+
+Next start your XAMPP or Wamp server
+
+If you use XAMPP Start 'Apache' and 'MySQL'
+
+Next, Import SQL code in your phpmyadmin
+
+Next run this link: http://localhost/FF/index.php
+
+You can create customer account and login using added email and password,
+
+Use these for login in to admin dashboard,
+Admin Access Credentials:
+Email: admin@fitzone.lk
+Password: admin123
+
+2nd in second Admin login panel Admin Credentials:
+Email: admin@fitzone.lk
+Password: admin123
+
+If you have any problem logging in to the admin account, just click forgot password.
+
+Admin can create staff accounts or you can use default email and password for login to staff dashboard,
+Email: staff@fitzone.com
+Password: password
+
+If you need any help contact: leshanchanaka5@gmail.com / +94 76 902 0829 
